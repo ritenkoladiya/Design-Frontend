@@ -1,0 +1,23 @@
+const theaddata = [
+    {
+        name:"ID"
+    },
+    {
+        name:"IMAGE"
+    },
+    {
+        name:"Email"
+    },
+    {
+        name:"Phone"
+    },
+    {
+        name:"City"
+    },
+    {
+        name:"State"
+    },
+    {
+        name:"Postcode"
+    }
+]
